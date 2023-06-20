@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B3047B3-200A-4934-89F5-5EF407EB6E42"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CB8B7A0-7A2F-4C51-A028-CDB2F126103B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WathcListMovie/Scenes/List/Detail/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C88AF9FA-7031-4FF2-B924-FD9BC84D28AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WathcListMovie/Scenes/List/Detail/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2722F344-02CE-426A-8538-93419E79353C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WathcListMovie/Scenes/List/Detail/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1101318-8EAB-4F67-B84B-6C8E0312BE8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WathcListMovie/Scenes/List/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1101318-8EAB-4F67-B84B-6C8E0312BE8B - 3cd170d7cbfcb5b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (()) -&gt; () in WathcListMovie.MovieListViewModel.init() -&gt; WathcListMovie.MovieListViewModel"
+                  moduleName = "WathcListMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimejazarenoiv/Documents/Cj/WathcListMovie/WathcListMovie/Scenes/List/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "A1101318-8EAB-4F67-B84B-6C8E0312BE8B - d224d023ab5dae30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, WathcListMovie.Movie) -&gt; () in closure #2 (()) -&gt; () in WathcListMovie.MovieListViewModel.init() -&gt; WathcListMovie.MovieListViewModel"
+                  moduleName = "WathcListMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimejazarenoiv/Documents/Cj/WathcListMovie/WathcListMovie/Scenes/List/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC8F8163-76CE-4A39-8649-5AFDD9CCE38C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WathcListMovie/Scenes/List/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC8F8163-76CE-4A39-8649-5AFDD9CCE38C - d224d023ab5dae30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, WathcListMovie.Movie) -&gt; () in closure #2 (()) -&gt; () in WathcListMovie.MovieListViewModel.init() -&gt; WathcListMovie.MovieListViewModel"
+                  moduleName = "WathcListMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimejazarenoiv/Documents/Cj/WathcListMovie/WathcListMovie/Scenes/List/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "BC8F8163-76CE-4A39-8649-5AFDD9CCE38C - 911762de24e026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; Swift.Bool in closure #1 (Swift.Int, WathcListMovie.Movie) -&gt; () in closure #2 (()) -&gt; () in WathcListMovie.MovieListViewModel.init() -&gt; WathcListMovie.MovieListViewModel"
+                  moduleName = "WathcListMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaimejazarenoiv/Documents/Cj/WathcListMovie/WathcListMovie/Scenes/List/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
